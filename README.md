@@ -1,5 +1,5 @@
 ## Hello! 
-My name is Anoshka. I'm a software developer, with experience as a python programmer in the  aniamtion industry. I recently received a scholarship to comlete my Diploma in Software Engineering, and am currently building a social media app for pet owners (Check it out here - https://pawdl.netlify.app/). I'm looking to work as a Backend Developer, and am open to collaborating on new projects. 
+My name is Anoshka. I'm a software developer, with experience as a python programmer in the  animation industry. I recently received a scholarship to comlete my Diploma in Software Engineering, and am currently building a social media app for pet owners (Check it out here - https://pawdl.netlify.app/). I'm looking to work as a Backend Developer, and am open to collaborating on new projects. 
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
