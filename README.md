@@ -1,29 +1,22 @@
 ## Hello! 
 My name is Anoshka. I'm a software developer, with experience as a python programmer in the  aniamtion industry. I recently received a scholarship to comlete my Diploma in Software Engineering, and am currently building a social media app for pet owners (Check it out here - https://pawdl.netlify.app/). I'm looking to work as a Backend Developer, and am open to collaborating on new projects. 
 
-## About Me
-I’m a passionate developer interested in **Full Stack Development**, **Machine Learning**, and **Open Source Contributions**. Currently working on projects using **React**, **Node.js**, and **Python**.
-
-## Hackathons
-- [Hackathon 1](link_to_hackathon) - Team project: Developed an app that does X.
-- [Hackathon 2](link_to_hackathon) - Solo project: Created a web app to do Y.
-
-## BrainStation Projects
-Check out my BrainStation projects:
-[BrainStation Projects](https://github.com/Anoshka/brainstation-projects)
-
-## Open Source Contributions
-- [Open Source Project 1](link_to_project) - Contributed feature X.
-- [Open Source Project 2](link_to_project) - Fixed bugs in module Y.
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 
 ## Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/your-linkedin)
-[Twitter](https://twitter.com/your-twitter)
+[LinkedIn](https://www.linkedin.com/in/anoshkajhaveri/)
+[Email](anoshkaujhaveri@gmail.com)
 
 
 <!--
