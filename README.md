@@ -1,5 +1,5 @@
 ## Hello! 
-My name is Anoshka. I'm a software developer, with experience as a python programmer in the  aniamtion industry. I recently received a scholarship to comlete my Diploma in Software Engineering, and am currently building a social media app for pet owners (Check it out here - https://github.com/Anoshka/pawdl_client). I'm looking to work as a Backend Developer, and am open to collaborating on new projects. 
+My name is Anoshka. I'm a software developer, with experience as a python programmer in the  aniamtion industry. I recently received a scholarship to comlete my Diploma in Software Engineering, and am currently building a social media app for pet owners (Check it out here - https://pawdl.netlify.app/). I'm looking to work as a Backend Developer, and am open to collaborating on new projects. 
 
 <!--
 **Anoshka/Anoshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
