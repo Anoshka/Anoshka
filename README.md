@@ -1,5 +1,5 @@
 ## Hello! 
-My name is Anoshka. I'm a software developer, with experience as a python programmer in the  animation industry. I recently received a scholarship to comlete my Diploma in Software Engineering, and am currently building a social media app for pet owners (Check it out here - https://pawdl.netlify.app/). I'm looking to work as a Backend Developer, and am open to collaborating on new projects. 
+My name is Anoshka. I'm a software developer, with experience as a python programmer in the  animation industry. I have specialised in designing and developing scalable pipeline solutions and automating complex workflows. My experience is primarily with 3D software such as Autodesk Maya, Motion Builder, Houdini, and NukeX, and game engines such as Unreal Engine and Unity. I have collaborated with clients and asset teams to contribute to my studios pipeline architecture and upgrade multiple SDKs. I am excited to keep updating my skills as a software developer. Keep in touvh with my work here - https://anoshkajhaveri.netlify.app/. I'm always open to new projects and collaborations, feel free to get in touch using one of my socials below. 
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
